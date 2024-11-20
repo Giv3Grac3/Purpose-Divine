@@ -1,0 +1,15 @@
+style image {
+  width: 100%;
+}
+body {
+  background-color: #00ff00;
+  text-align: center;
+}
+p:hover {
+  background-color: beige;
+  display: inline;
+  color: blueviolet;
+  font-weight: 700;
+  padding: 1rem;
+  border-radius: 100px;
+}
